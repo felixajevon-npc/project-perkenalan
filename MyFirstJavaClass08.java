@@ -9,7 +9,7 @@ public class MyFirstJavaClass08 {
       String alamat = "Kecamatan Kromengan, Jambuwer";
       String nohp = "082244587958";
       String hobi = "Menonton Film";
-
+    
       System.out.println("+-----------------------------------------------+");
       System.out.println("| Nama    \t: " + nama + "\t\t|");
       System.out.println("| NIM     \t: " + nim + "\t\t\t|");
